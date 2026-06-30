@@ -80,14 +80,6 @@ This dashboard enables HR teams to:
 - Monitor employment categories
 - Analyze employee confirmation status
 
----
-
-## 📂 Repository Files
-
-- HR-Analytics-Dashboard.pbix
-- HR-Dataset.xlsx
-- Dashboard-Page1.png
-- Dashboard-Page2.png
 
 ---
 
