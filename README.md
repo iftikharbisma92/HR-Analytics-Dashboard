@@ -67,6 +67,18 @@ Users can analyze HR data using interactive slicers:
 
 ---
 
+## 📷 Dashboard Preview
+
+### Dashboard - Page 1
+
+![Dashboard Page 1](Dashboard-Page1.png)
+
+### Dashboard - Page 2
+
+![Dashboard Page 2](Dashboard-Page2.png)
+
+---
+
 ## 💼 Business Insights
 
 This dashboard enables HR teams to:
@@ -80,18 +92,6 @@ This dashboard enables HR teams to:
 - Monitor employment categories
 - Analyze employee confirmation status
 
-
----
-
-## 📷 Dashboard Preview
-
-### Dashboard - Page 1
-
-![Dashboard Page 1](Dashboard-Page1.png)
-
-### Dashboard - Page 2
-
-![Dashboard Page 2](Dashboard-Page2.png)
 
 ---
 
